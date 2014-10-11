@@ -1,2 +1,3 @@
-first_project
-=============
+Blue Star Lizard
+================
+##my first project 
